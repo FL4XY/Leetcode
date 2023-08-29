@@ -37,10 +37,7 @@ public class AddTwoNumbers {
         
         return dummyHead.next;
         
-
-
     }
-
 
     /**
      * Definition for singly-linked list.
